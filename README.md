@@ -15,3 +15,4 @@ QUESTIONS TO EXPLORE
 # useful links
 
 Transformation in medical images: https://www.frontiersin.org/articles/10.3389/fncom.2019.00083/full
+parameters for elastic: https://www.kaggle.com/bguberfain/elastic-transform-for-data-augmentation
