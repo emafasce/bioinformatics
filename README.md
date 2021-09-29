@@ -2,9 +2,7 @@
 
 FUNDAMENTAL TASK
 
-What network behaves better on this dataset? 
-- Segmentation
-- Classification
+- Segmentation with two networks
 
 QUESTIONS TO EXPLORE
 
