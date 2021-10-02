@@ -7,7 +7,7 @@ From a preliminary study, the most premising networks a part from Unet are Ma-Ne
 
 QUESTIONS TO EXPLORE
 
-- Do bigger images ensure bigger accuracy? - To implement 
+- Do bigger images ensure bigger accuracy? - Implemented, to study
 - Are any transformations useful? - Implemented
 - Can I train a network from scratch and obtain the same results?
 
