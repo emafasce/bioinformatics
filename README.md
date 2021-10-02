@@ -2,12 +2,13 @@
 
 FUNDAMENTAL TASK
 
-- Segmentation with two networks
+- Segmentation with networks: which model performs better?
+From a preliminary study, the most premising networks a part from Unet are Ma-Net (built for tumor segmentation) and Linknet (build for scene semantic segmentation). Probably these three models will be studied more accurately, also performing sweeps.
 
 QUESTIONS TO EXPLORE
 
-- Do bigger images ensure bigger accuracy?
-- Are any transformations useful?
+- Do bigger images ensure bigger accuracy? - To implement 
+- Are any transformations useful? - Implemented
 - Can I train a network from scratch and obtain the same results?
 
 # useful links
