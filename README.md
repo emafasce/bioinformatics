@@ -9,7 +9,8 @@ QUESTIONS TO EXPLORE
 
 - Do bigger images ensure bigger accuracy? - It seems no, but more accurate experiments should be performed.
 - Are any transformations useful? - Implemented
-- Can I train a network from scratch and obtain the same results?
+- Can I train a network from scratch and obtain the same results? - A bit lower.
+
 
 # useful links
 
