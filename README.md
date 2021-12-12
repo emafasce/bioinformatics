@@ -3,6 +3,7 @@ MAIN TASKS
 - Segmentation of cancerous images
 - Classification on the type of cancer using the predictions of the best performing segmentation network as inputs
 
+
 EXPLORED TOPICS
 
 Segmentation
@@ -14,6 +15,7 @@ Segmentation
 Classification
 
 - Are segmentation predictions useful to classify the two types of cancer?
+
 
 NOTEBOOKS DESCRIPTION
 
