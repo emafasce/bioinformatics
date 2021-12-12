@@ -1,18 +1,27 @@
-# bioinformatics
+MAIN TASKS
 
-FUNDAMENTAL TASK
+- Segmentation of cancerous images
+- Classification on the type of cancer using the predictions of the best performing segmentation network as inputs
 
-- Segmentation with networks: which model performs better?
-From a preliminary study, the most premising networks a part from Unet are Ma-Net (built for tumor segmentation) and Linknet (build for scene semantic segmentation). Probably these three models will be studied more accurately, also performing sweeps.
+EXPLORED TOPICS
 
-QUESTIONS TO EXPLORE
+Segmentation
 
-- Do bigger images ensure bigger accuracy? - It seems no, but more accurate experiments should be performed.
-- Are any transformations useful? - Implemented
-- Can I train a network from scratch and obtain the same results? - A bit lower.
+- Which model and backbone performs better on the segmentation task?
+- Which transformations are more useful?
+- Which loss function works better?
+
+Classification
+
+- Are segmentation predictions useful to classify the two types of cancer?
+
+NOTEBOOKS DESCRIPTION
+
+Notebooks for the training: they are all contained in training_nbs folder. To run them, make a Wandb account (1) and change the paths.
+Notebooks for the visualizations: they are all contained in visualizations folder.
+Notebooks for the dataset: they are all contained in dataset folder
 
 
-# useful links
+APPENDIX
 
-Transformation in medical images: https://www.frontiersin.org/articles/10.3389/fncom.2019.00083/full
-parameters for elastic: https://www.kaggle.com/bguberfain/elastic-transform-for-data-augmentation
+(1): In this project I used Wandb to log the results.
