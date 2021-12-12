@@ -1,3 +1,6 @@
+This is the Bioinformatics project "Segmentation on human renal tissue". In this github folder you can find the Latex document, the presentation and all the code I wrote.
+In this Readme I provided a very high level view of the contents of this project and how to run the code.
+
 MAIN TASKS
 
 - Segmentation of cancerous images
