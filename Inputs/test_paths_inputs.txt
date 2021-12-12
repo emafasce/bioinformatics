@@ -1,0 +1,10 @@
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/ccRCC/ccRCC_img_15.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/ccRCC/ccRCC_img_19.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/ccRCC/ccRCC_img_6.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/ccRCC/ccRCC_img_7.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/ccRCC/ccRCC_img_9.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/pRCC/pRCC_img_12.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/pRCC/pRCC_img_15.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/pRCC/pRCC_img_21.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/pRCC/pRCC_img_23.png
+/content/gdrive/.shortcut-targets-by-id/1mtNVywqwmtCBefeGQrY2c6F6xBQQWq30/vascular_segmentation/Test/pRCC/pRCC_img_24.png
