@@ -9,19 +9,6 @@ In this Readme I provided a very high level view of the contents of this project
 - Classification on the type of cancer using the predictions of the best performing segmentation network as inputs
 
 
-### EXPLORED TOPICS
-
-Segmentation
-
-- Which model and backbone performs better on the segmentation task?
-- Which transformations are more useful?
-- Which loss function works better?
-
-Classification
-
-- Are segmentation predictions useful to classify the two types of cancer?
-
-
 ### FILES DESCRIPTION
 
 Notebooks for the training: they are all contained in training_nbs folder. To run them, make a Wandb account (1) and change the path for the home folder.
