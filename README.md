@@ -22,11 +22,12 @@ Classification
 - Are segmentation predictions useful to classify the two types of cancer?
 
 
-### NOTEBOOKS DESCRIPTION
+### FILES DESCRIPTION
 
-Notebooks for the training: they are all contained in training_nbs folder. To run them, make a Wandb account (1) and change the paths.
+Notebooks for the training: they are all contained in training_nbs folder. To run them, make a Wandb account (1) and change the path for the home folder.
 Notebooks for the visualizations: they are all contained in visualizations folder.
 Notebooks for the dataset: they are all contained in dataset folder
+The Predictions folder contains the segmentation predictions of the best performing model.
 
 
 ### APPENDIX
