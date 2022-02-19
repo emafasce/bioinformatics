@@ -1,6 +1,6 @@
 # Segmentation and classification on human renal tissue
 
-This is the Bioinformatics project "Segmentation on human renal tissue". In this github folder you can find the Latex document (Segmentation_bioinformatics.pdf), the presentation (Slides.pdf) and all the code I wrote.
+This is the Bioinformatics project "Segmentation and classification on human renal tissue". In this github folder you can find the Latex document (Bioinformatics_report.pdf), the presentation (Slides.pdf) and all the code I wrote.
 In this Readme I provide a brief explanation on how to run the code.
 
 ### MAIN TASKS
