@@ -1,6 +1,10 @@
 # Segmentation and classification on human renal tissue
 
-This is the Bioinformatics project "Segmentation and classification on human renal tissue". In this github folder you can find the Latex document (Bioinformatics_report.pdf), the presentation (Slides.pdf) and all the code I wrote. The slides are also available at this link: https://www.canva.com/design/DAEyXnS4_mo/saVemvrUL28bs4x03GMadA/view?utm_content=DAEyXnS4_mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+This is the Bioinformatics project "Segmentation and classification on human renal tissue". In this github folder you can find:
+- The report (Bioinformatics_report.pdf)
+- The presentation (available also at this link: https://www.canva.com/design/DAEyXnS4_mo/saVemvrUL28bs4x03GMadA/view?utm_content=DAEyXnS4_mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- The code
+
 In this Readme I provide a brief explanation on how to run the code.
 
 ### MAIN TASKS
@@ -9,17 +13,13 @@ In this Readme I provide a brief explanation on how to run the code.
 - Classification on the type of cancer using the predictions of the best performing segmentation network as inputs
 
 
-### FILES DESCRIPTION
+### FOLDER CONTENT DESCRIPTION AND HOW TO RUN THE CODE
 
-Notebooks for the training: they are all contained in training_nbs folder. To run them, make a Wandb account (1) and change the path for the home folder.
+Notebooks for the training: they are all contained in training_nbs folder. To run them, change the path for the root_folder variable, pointing to the bioinformatics folder.
+It is suggested to leave use_wandb and save_model to False, since they are used to log the results and save the models locally.
 
 Notebooks for the visualizations: they are all contained in visualizations folder.
 
 Notebooks for the dataset: they are all contained in dataset folder.
 
 The Predictions folder contains the segmentation predictions of the best performing model.
-
-
-### APPENDIX
-
-(1): In this project I used Wandb to log the results.
