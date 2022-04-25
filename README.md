@@ -14,7 +14,24 @@ The best performing model is then used to build another classification dataset c
 
 ## RESULTS
 
+- The elastic + affine transformations improve the results
+- The ResNest backbone works best
+- Using bigger input images helps the performance
+- The best runs of each model have similar performances, probably due to the models similarity, as shown by the next table.
+
+
+
+![alt text](https://github.com/emafasce/bioinformatics/blob/main/visualizations/results.png)
+
+
+These are two predictions from the best performing model, the U-Net++, on the test set.
+On the visualization on the right, a TP is indicated by green, FP by blue, TN by white, FN by red.
+
+
 ![alt text](https://github.com/emafasce/bioinformatics/blob/main/visualizations/bioinformatics.jpg)
+
+This model achieves 65.10% IOU on the test set. The predictions of this model are used to build another classification dataset, with the type of cancer as label.  A ResNet50 easily reaches 100% accuracy on the test set of this last dataset.
+
 
 ## REPO CONTENT
 
