@@ -1,16 +1,9 @@
 # Segmentation and classification on human renal tissue
 
-In this github folder you can find:
-- The report (Bioinformatics_report.pdf)
-- The presentation (available also at this link: https://www.canva.com/design/DAEyXnS4_mo/saVemvrUL28bs4x03GMadA/view?utm_content=DAEyXnS4_mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- The code
-
-In this Readme I provide a brief explanation of the project.
-
 ## MAIN TASKS
 
-- Segmentation of cancerous images
-- Classification on the type of cancer using the predictions of the best performing segmentation network as inputs
+In this project several neural architectures for segmentation are implemented and evaluated on a dataset composed of 200 images of cancerous cells depicting two types of cancer,  Clear cell renal cell carcinoma and Papillary renal cell carcinoma.
+The best performing model is then used to build another classification dataset composed of its predictions as input images and the type of cancer as label: a ResNet that uses the predictions as input images predicts the type of cancer surprisingly well, further validating the segmentation task.
 
 ## SEGMENTATION NETWORKS USED
 
@@ -22,6 +15,13 @@ In this Readme I provide a brief explanation of the project.
 ## RESULTS
 
 ![alt text](https://github.com/emafasce/bioinformatics/blob/main/visualizations/bioinformatics.jpg)
+
+## REPO CONTENT
+
+In this repo you can find:
+- The report (Bioinformatics_report.pdf)
+- The presentation (available also at this link: https://www.canva.com/design/DAEyXnS4_mo/saVemvrUL28bs4x03GMadA/view?utm_content=DAEyXnS4_mo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- The code
 
 ### HOW TO RUN
 
